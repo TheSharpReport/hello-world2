@@ -1,4 +1,5 @@
-# hello-world2
-More practice with GitHub
 
-I'm getting ready for my Chingu cohort. GitHub is very important to this process so I'll need some extra practice.
+# GitHub Testing
+Need to merge new info with dev branch
+Testing the ability to work coordinate the workflow between VSCode and GitHub.
+First change is this new text!!!
